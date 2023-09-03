@@ -1,2 +1,2 @@
-# Online-Education-Institute
-This is a Simple Responsive Website Created Using HTML CSS And JS for an Online Education Courses Selling Institiute.
+# online-education-institute
+This is a simple responsive website created using HTML CSS And JS for an Online Education Courses selling institiute.
